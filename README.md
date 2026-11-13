@@ -8,5 +8,5 @@
 >* 🔗 [ร้านกล้วยทอดป้าแต๋ว เมื่อก่อนอยู่หน้าวัดไทย](https://facebook.com)
 
 ## ต้นเเบบ UX/UI ผ่าน Miro
-### อัปเดต ณ 13/11/2569
+### อัปเดต ณ 13/11/2569 (ล่าสุด)
 >* 🔗 [BANANA QUEUE — UI/UX DESIGN](https://miro.com/app/board/uXjVEVRZJNc=/?share_link_id=364096045282)
